@@ -1,1 +1,1 @@
-# VZU-praksa
+# VZI-praksa
